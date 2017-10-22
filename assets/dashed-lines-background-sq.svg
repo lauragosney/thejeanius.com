@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="645px" height="645px" viewBox="0 0 645 645" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>dashed-lines</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="645" height="645"></rect>
+        <rect id="path-3" x="327" y="591.585938" width="675" height="693.375"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashed-lines">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-375.000000, -649.031250)">
+                    <g id="dashed-lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(509.000000, 759.890625)" stroke-linecap="square" stroke-dasharray="1,1,5">
+                        <path d="M154,840.8365 L752.080907,305.367188" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M169,841.844312 L767.080907,306.375" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M139,823.703687 L737.080907,288.234375" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M154,824.7115 L752.080907,289.242187" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M124,807.578687 L722.080907,272.109375" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M139,808.5865 L737.080907,273.117187" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M109,792.4615 L707.080907,256.992188" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M124,793.469312 L722.080907,258" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M101,770.289625 L699.080907,234.820313" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M116,771.297437 L714.080907,235.828125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M86,753.156812 L684.080907,217.6875" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M101,754.164625 L699.080907,218.695312" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M71,737.031812 L669.080907,201.5625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M86,738.039625 L684.080907,202.570312" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M56,721.914625 L654.080907,186.445313" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M71,722.922437 L669.080907,187.453125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M104,649.352125 L702.080907,113.882813" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M119,650.359937 L717.080907,114.890625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M89,632.219312 L687.080907,96.75" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M104,633.227125 L702.080907,97.7578125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M74,616.094312 L672.080907,80.625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M89,617.102125 L687.080907,81.6328125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M59,600.977125 L657.080907,65.5078125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M74,601.984937 L672.080907,66.515625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M54,575.781812 L652.080907,40.3125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M69,576.789625 L667.080907,41.3203125" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M39,558.649 L637.080907,23.1796875" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M54,559.656812 L652.080907,24.1875" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M24,542.524 L622.080907,7.0546875" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M39,543.531812 L637.080907,8.0625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M0,535.469312 L598.080907,4.54747351e-13" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M15,537.484937 L613.080907,2.015625" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                    </g>
+                    <g id="dashed-lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(219.000000, 277.148438)" stroke-linecap="square" stroke-dasharray="1,1,5">
+                        <path d="M145,1116.97712 L1042.12136,313.773156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M160,1117.98494 L1057.12136,314.780969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M130,1099.84431 L1027.12136,296.640344" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M145,1100.85212 L1042.12136,297.648156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M115,1083.71931 L1012.12136,280.515344" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M130,1084.72712 L1027.12136,281.523156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M100,1068.60212 L997.121361,265.398156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M115,1069.60994 L1012.12136,266.405969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M92,1046.43025 L989.121361,243.226281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M49,1097.82869 L946.121361,294.624719" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M77,1029.29744 L974.121361,226.093469" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M92,1030.30525 L989.121361,227.101281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M62,1013.17244 L959.121361,209.968469" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M77,1014.18025 L974.121361,210.976281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M47,998.05525 L944.121361,194.851281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M62,999.063062 L959.121361,195.859094" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M95,925.49275 L992.121361,122.288781" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M110,926.500562 L1007.12136,123.296594" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M80,908.359937 L977.121361,105.155969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M95,909.36775 L992.121361,106.163781" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M65,892.234937 L962.121361,89.0309689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M80,893.24275 L977.121361,90.0387814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M50,877.11775 L947.121361,73.9137814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M65,878.125562 L962.121361,74.9215939" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M45,851.922437 L942.121361,48.7184689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M60,852.93025 L957.121361,49.7262814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M30,834.789625 L927.121361,31.5856564" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M45,835.797437 L942.121361,32.5934689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M15,818.664625 L912.121361,15.4606564" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M30,819.672437 L927.121361,16.4684689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M0,803.547437 L897.121361,0.343468942" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M15,804.55525 L912.121361,1.35128144" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                    </g>
+                    <g id="dashed-lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-dasharray="1,1,5">
+                        <path d="M145,1116.97712 L1042.12136,313.773156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M160,1117.98494 L1057.12136,314.780969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M130,1099.84431 L1027.12136,296.640344" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M145,1100.85212 L1042.12136,297.648156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M115,1083.71931 L1012.12136,280.515344" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M130,1084.72712 L1027.12136,281.523156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M100,1068.60212 L997.121361,265.398156" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M115,1069.60994 L1012.12136,266.405969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M92,1046.43025 L989.121361,243.226281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M107,1047.43806 L1004.12136,244.234094" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M77,1029.29744 L974.121361,226.093469" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M92,1030.30525 L989.121361,227.101281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M62,1013.17244 L959.121361,209.968469" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M77,1014.18025 L974.121361,210.976281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M47,998.05525 L944.121361,194.851281" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M62,999.063062 L959.121361,195.859094" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M95,925.49275 L992.121361,122.288781" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M110,926.500562 L1007.12136,123.296594" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M80,908.359937 L977.121361,105.155969" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M95,909.36775 L992.121361,106.163781" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M65,892.234937 L962.121361,89.0309689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M80,893.24275 L977.121361,90.0387814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M50,877.11775 L947.121361,73.9137814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M65,878.125562 L962.121361,74.9215939" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M45,851.922437 L942.121361,48.7184689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M60,852.93025 L957.121361,49.7262814" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M30,834.789625 L927.121361,31.5856564" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M45,835.797437 L942.121361,32.5934689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M15,818.664625 L912.121361,15.4606564" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M30,819.672437 L927.121361,16.4684689" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M0,803.547437 L897.121361,0.343468942" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M15,804.55525 L912.121361,1.35128144" id="Line-2" stroke="#000000" stroke-width="2"></path>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask" stroke="none" fill="none"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

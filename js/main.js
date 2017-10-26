@@ -30,6 +30,7 @@ $('.menu-toggle').on('click',function(){
     return false
 
 })
+
 $(".menu-toggle").on("click", function () {
     $("header").toggleClass("visible")
 

@@ -1,3 +1,4 @@
+
 body {
 	font-family: Noto Serif;
 	font-size: 14px;
@@ -144,7 +145,7 @@ section  {
   transition: transform 0.5s ease;
 }
 
-.blog-entry .blog-container:hover .blog-graphic-left {
+.blog-entry .blog-container-rev:hover .blog-graphic-left {
   transform: rotate(-3deg);
 }
 
@@ -751,6 +752,13 @@ input.button-new:hover {
 
 
 @media (max-width: 840px) {
+
+	section  {
+	  opacity: 0;
+	  transition: opacity 0s ease;
+	  transition-delay: 0s;
+	  margin: 100px auto;
+	}
 
   header nav,
   .social {

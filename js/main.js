@@ -4,8 +4,8 @@ $("header a").on("click", function () {
   // wait for a bit
 
 
-$("header").toggleClass("visible")
-	$("section").toggleClass("fade")
+$("header").toggleClass("visible");
+	$("section").toggleClass("fade");
 
   setTimeout(function () {
 
@@ -21,21 +21,21 @@ $("header").toggleClass("visible")
 
 $(document).ready(function(){
 
-  $("header").toggleClass("visible")
-	$("section").toggleClass("fade")
+  $("header").toggleClass("visible");
+	$("section").toggleClass("fade");
 })
 
 $('.menu-toggle').on('click',function(){
-  $('.menu').toggleClass('open')
+  $('.menu').toggleClass('open');
     return false
 
 })
 
 $(".menu-toggle").on("click", function () {
-    $("header").toggleClass("visible")
+    $("header").toggleClass("visible");
 
-  $(".menu-toggle span.line-1").toggleClass('rotate')
-   $(".menu-toggle span.line-3").toggleClass('rotate2')
+  $(".menu-toggle span.line-1").toggleClass('rotate');
+   $(".menu-toggle span.line-3").toggleClass('rotate2');
 
    if ($('.menu').hasClass('open')) {
       $(".menu-toggle span.line-2").css('opacity', '0')
